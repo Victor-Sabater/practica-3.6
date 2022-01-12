@@ -1,0 +1,19 @@
+h1.titulo{
+    color: black;
+    background-color: beige;
+    text-align: center;
+}
+
+
+p.Museu{
+    text-align: center;
+    background-color: chartreuse;
+}
+
+a {
+    color: black;
+}
+
+section.naranja{
+    background-color: orange;
+}
