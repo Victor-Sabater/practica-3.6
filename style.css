@@ -25,3 +25,13 @@ article.izquierda{
 article.derecha{
     display: inline-block;
 }
+
+footer.final{
+    text-align: center;
+    background-color: blue;
+
+}
+
+span.amarillo{
+background-color: yellow;
+}
