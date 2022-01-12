@@ -17,3 +17,11 @@ a {
 section.naranja{
     background-color: orange;
 }
+
+article.izquierda{
+    display: inline-block;
+}
+
+article.derecha{
+    display: inline-block;
+}
